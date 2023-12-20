@@ -421,5 +421,23 @@
           "title": "White",
           "color": "white"
       }
+  ],
+  "customers":[
+    {
+        "id": 1,
+        "fullName": "Amy Cavid",
+        "email": "te@gmail.com",
+        "phone": "0123456789",
+        "address": "90NTP",
+        "balance": 100000
+    },
+    {
+        "id": 2,
+        "fullName": "Hara Hart",
+        "email": "qyuaa1@gmail.com",
+        "phone": "01234123189",
+        "address": "90NTP",
+        "balance": 200000
+    }
   ]
 }
